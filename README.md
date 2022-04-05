@@ -9,7 +9,7 @@ Web Developer, love Elon Musk 😍😍
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=NODE.JS&logoColor=white" alt="NodeJS">
 <img src="https://img.shields.io/badge/Express-00A98F.svg?style=flat-square&logo=express&logoColor=white" alt="Express">
 <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=laravel&logoColor=white" alt="LARAVEL">
+  <img src="https://img.shields.io/badge/Laravel-fb503b.svg?style=flat-square&logo=laravel&logoColor=white" alt="LARAVEL">
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="GIT">
