@@ -1,6 +1,6 @@
 ### Hi :) 👋
 
-Web Developer, love Elon Musk 😍😍
+Mern Developer 😍😍
 
 ### Skils :)
 <p>
