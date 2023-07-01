@@ -6,6 +6,7 @@ Mern Developer 😍😍
 <p>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=1f1f1f" alt="Javascript">
 <img src="https://img.shields.io/badge/ReactJS-1f1f1f?style=flat-square&logo=react&logoColor=61DAFB" alt="ReactJS">
+  <img src="https://img.shields.io/badge/Lua-1f1f1f?style=flat-square&logo=lua&logoColor=61DAFB" alt="Lua">
   <img src="https://img.shields.io/badge/Tailwind-1f1f1f?style=flat-square&logo=tailwind&logoColor=61DAFB" alt="Tailwindcss">
   <img src="https://img.shields.io/badge/Typescript-1f1f1f?style=flat-square&logo=typescript&logoColor=61DAFB" alt="Typescript">
   <img src="https://img.shields.io/badge/Redux-1f1f1f?style=flat-square&logo=redux&logoColor=764abc" alt="Redux">
