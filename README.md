@@ -1,6 +1,6 @@
 ### Hi :) 👋
 
-Mern Developer 😍😍
+Developer 😍😍
 
 ### Skils :)
 <p>
