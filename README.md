@@ -9,7 +9,8 @@ Developer 😍😍
   <img src="https://img.shields.io/badge/Lua-1f1f1f?style=flat-square&logo=lua&logoColor=61DAFB" alt="Lua">
     <img src="https://img.shields.io/badge/Postgres-1f1f1f?style=flat-square&logo=postgres&logoColor=61DAFB" alt="Postgres">
   <img src="https://img.shields.io/badge/Redis-1f1f1f?style=flat-square&logo=redis&logoColor=61DAFB" alt="Redis">
-      <img src="https://img.shields.io/badge/Webpack-1f1f1f?style=flat-square&logo=webpack&logoColor=61DAFB" alt="Webpack">
+  <img src="https://img.shields.io/badge/Go-1f1f1f?style=flat-square&logo=go&logoColor=61DAFB" alt="Go">
+  <img src="https://img.shields.io/badge/Webpack-1f1f1f?style=flat-square&logo=webpack&logoColor=61DAFB" alt="Webpack">
   <img src="https://img.shields.io/badge/Tailwind-1f1f1f?style=flat-square&logo=tailwind&logoColor=61DAFB" alt="Tailwindcss">
   <img src="https://img.shields.io/badge/Typescript-1f1f1f?style=flat-square&logo=typescript&logoColor=61DAFB" alt="Typescript">
   <img src="https://img.shields.io/badge/Redux-1f1f1f?style=flat-square&logo=redux&logoColor=764abc" alt="Redux">
